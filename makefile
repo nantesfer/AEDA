@@ -7,3 +7,8 @@ all: ${OBJS}
 		
 clean:
 	rm -rf *.o stl
+	
+	
+	
+	
+	#hzrztbsntdmuyf,iutiug
